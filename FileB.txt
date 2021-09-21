@@ -1,1 +1,2 @@
 FileB 1st string
+2nd row of FileB
