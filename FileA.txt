@@ -1,1 +1,2 @@
 FileA 1st string
+2nd row
